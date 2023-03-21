@@ -19,6 +19,10 @@
 
 ![git init](https://user-images.githubusercontent.com/122597068/226675682-d8b59390-005c-40c7-a942-30fde177e6e9.png)
 
+<br/>
+<br/>
+
+
 - 실습 결과
 
 ![git init 1](https://user-images.githubusercontent.com/122597068/226675849-d0ea1f14-e922-44de-b595-8a5926168f72.png)
