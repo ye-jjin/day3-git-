@@ -16,7 +16,7 @@
 <br/>
 
 - 실습 코드
-<img src="https://user-images.githubusercontent.com/122597068/226675682-d8b59390-005c-40c7-a942-30fde177e6e9.png" width="100%" height="50%">
+<img src="https://user-images.githubusercontent.com/122597068/226675682-d8b59390-005c-40c7-a942-30fde177e6e9.png" width="100%" height="30%">
 
 <br/>
 <br/>
