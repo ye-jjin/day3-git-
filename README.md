@@ -17,10 +17,12 @@
 
 - 실습 코드
 
-![git init](https://user-images.githubusercontent.com/122597068/226675682-d8b59390-005c-40c7-a942-30fde177e6e9.png) {: width="100%" }
+![git init](https://user-images.githubusercontent.com/122597068/226675682-d8b59390-005c-40c7-a942-30fde177e6e9.png)
 
 - 실습 결과
-이미지
+
+![git init 1](https://user-images.githubusercontent.com/122597068/226675849-d0ea1f14-e922-44de-b595-8a5926168f72.png)
+
 ---
 
 ### git status
@@ -37,7 +39,9 @@
 <br/>
 
 - 실습 코드 및 결과
-이미지
+
+![git status](https://user-images.githubusercontent.com/122597068/226676343-41d40957-8edb-4102-8c4d-743bd54a117a.png)
+
 - `orange`와 `red` 가  untracked files( 추적하지 않는 파일) 로 존재
 
 ---
@@ -62,7 +66,9 @@
 <br/>
 
 - 실습코드 및 결과
-이미지
+
+![git add](https://user-images.githubusercontent.com/122597068/226676591-35386def-a024-4bd6-8de6-4101d0a05b85.png)
+
 - untracked files에 있던 `orange`와 `red`의 상태가 변경된 것을 확인
 
 ---
@@ -77,7 +83,8 @@
 <br/>
 
 - 실습 코드 및 결과
-이미지
+
+![git commit](https://user-images.githubusercontent.com/122597068/226676782-1cb470be-4d59-41f3-acf1-529b4a2b78cd.png)
 
 ---
 
@@ -88,7 +95,8 @@
 <br/>
 
 - 실습 코드 및 결과
-이미지
+
+![git log](https://user-images.githubusercontent.com/122597068/226677032-6d0523ce-41d3-4ddf-97b1-771deb47ffc8.png)
 
 ---
 
@@ -103,7 +111,9 @@
 <br/>
 
 - 실습 코드 및 결과 
-이미지
+
+![git reset](https://user-images.githubusercontent.com/122597068/226677545-6a552a85-1255-40e0-8ffb-580bc7844ffd.png)
+
 - 이전의 3번째 커밋 이력이 사라진 것을 확인
 
 ---
@@ -128,7 +138,10 @@
 <br/>
 
 - 실습 코드 및 결과
-이미지
+
+![git switch](https://user-images.githubusercontent.com/122597068/226678006-e3f936c7-f622-4ceb-86c8-c477aefa8355.png)
+
+![git switch 변경](https://user-images.githubusercontent.com/122597068/226678141-711b0ffe-92c0-4dc5-bb7b-e97f85e0edc3.png)
 
 ---
 
@@ -150,9 +163,12 @@
 <br/>
 
 - 실습 코드 및 결과
-이미지
-이미지
-이미지
+
+![git switch 1](https://user-images.githubusercontent.com/122597068/226678653-214d1401-bdee-41a9-82cc-b361069f852a.png)
+
+![git switch 2](https://user-images.githubusercontent.com/122597068/226678817-e8e7f53a-4243-4892-9d5f-2fada4eae841.png)
+
+![git merge](https://user-images.githubusercontent.com/122597068/226679088-0e1caf66-c084-4b49-a689-a7a75dc8d86f.png)
 
 ---
 
@@ -164,8 +180,10 @@
 <br/>
 
 - 실습 코드 및 결과
-이미지
-이미지
+
+![conflict](https://user-images.githubusercontent.com/122597068/226679437-174133e1-2ad9-4ab8-a331-75ece162a0e8.png)
+
+![git abort](https://user-images.githubusercontent.com/122597068/226679654-ddac5276-9ff1-49d4-885e-23c0ddaf5499.png)
 
 ---
 
