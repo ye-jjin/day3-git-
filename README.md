@@ -61,7 +61,7 @@
 
 - 실습코드 및 결과
 이미지
-- untracked files에 있던 orange와 red의 상태가 변경된 것을 확인
+- untracked files에 있던 `orange`와 `red`의 상태가 변경된 것을 확인
 
 ---
 
